@@ -1,7 +1,7 @@
 # Brian's React Notes
 
 Just some notes on react, what to take note of and what's new and what's cool and what's amazing.
-I am following [these]() tutorials on React from youtube. This is all free and all can be found on youtube.
+I am following [these](https://www.youtube.com/playlist?list=PLBI6VfDIlAcpQs5_nd8oreYt86vSOBXWF) tutorials on React from youtube. This is all free and all can be found on youtube.
 
 ### How do i note things down?
 
